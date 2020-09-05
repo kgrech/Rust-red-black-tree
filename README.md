@@ -4,7 +4,7 @@ Implementation of the red-black BST written in [Rust](https://www.rust-lang.org/
 
 
 View more on YouTube:
-Part 1: [Non-balanced binary tree](https://youtu.be/2MKfWRtASTA).
+Part 1: [Non-balanced binary tree](https://youtu.be/wx7SEgfaoBg).
 
 ## Run
 ```
